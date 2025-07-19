@@ -8,5 +8,16 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user":"TurboFlash",
+            "link":"https://youtu.be/gvzOA2_0Qd0",
+            "percent":100,
+            "hz":60
+        },
+        {,
+            "user":"trickgmd",
+            "link":"https://youtu.be/FfnQ-7qO5-o",
+            "percent":100,
+            "hz":60
     ]
 }
