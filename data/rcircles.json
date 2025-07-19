@@ -1,10 +1,10 @@
-{
+
     "id": 278,
     "name": "Ruby Circles",
     "author": "lightingflash",
     "creators": ["lightingflash"],
     "verifier": "lightingflash",
-    "verification": "",
+    "verification": "https://youtu.be/Ln2CR26Pa8A?si=PKsowf_2qDVOT-bC",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
@@ -14,7 +14,7 @@
             "percent":100,
             "hz":60
         },
-        {,
+        {
             "user":"trickgmd",
             "link":"https://youtu.be/FfnQ-7qO5-o",
             "percent":100,
