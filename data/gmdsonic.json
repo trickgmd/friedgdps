@@ -8,5 +8,28 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-    ]
-}
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/Se4OGY49NWQ",
+            "percent": 100,
+            "hz":60,
+      }
+    {,
+            "user": "Monstrosity",
+            "link": "https://youtu.be/Se4OGY49NWQ",
+            "percent": 100,
+            "hz":60,
+    }
+    {,
+            "user": "mel",
+            "link": "https://files.catbox.moe/w59hl5.mp4",
+            "percent": 100,
+            "hz":60,
+    }
+    {,
+            "user": "MacchCE",
+            "link": "https://www.youtube.com/live/mvbnVbkpvHA",
+            "percent": 100,
+            "hz":60,
+  ]
+]
