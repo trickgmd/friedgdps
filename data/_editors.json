@@ -1,27 +1,42 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Moon",
+        "link": ""
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Ripium",
+        "link": ""
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "trickgmd",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "gmdshin",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "pyrotek__",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "Macch",
+        "link": ""
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "lightingflash",
+        "link": ""
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "trickgmd",
+        "link": ""
     }
 ]
